@@ -1,0 +1,10 @@
+---
+title: "Assignment 3"
+author: "Ozgur Ozdemir"
+date: "31 Ekim 2018"
+output: html_document
+---
+
+```{r, warning=FALSE}
+library(tidyverse)
+```
