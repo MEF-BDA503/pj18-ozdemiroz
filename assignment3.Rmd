@@ -5,6 +5,13 @@ date: "31 Ekim 2018"
 output: html_document
 ---
 
-```{r, warning=FALSE}
+"```{r, warning=FALSE}
 library(tidyverse)
-```
+egm_example_data <- read_xlsx()
+egm_example_data %>%
+    tbl_df()
+```""
+------
+ggplot(data = egm_example_data, aes(x = 1:nrow(egm_example_data), 
+  y = contribution)) + geom_line()
+--------
