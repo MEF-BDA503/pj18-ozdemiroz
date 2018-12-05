@@ -8,3 +8,6 @@ Here is my Github Page.
 
 ### Week 3 (Oct 31)
 [Here is the link for ODD Retail Sales Homework- 2016_02](feb2016odd.html).
+
+### Week 4 
+[Here is the link for ODD-Assignment Part 2](ODD_Part_2_.html).
